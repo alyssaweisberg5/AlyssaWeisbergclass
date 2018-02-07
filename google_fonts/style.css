@@ -6,11 +6,15 @@
 
 p {
 	color: #666666;
-    font-family: Helvetica, Arial, sans-serif;
+		font-family: 'Merriweather', Georgia, "Times New Roman", serif;
+}
+
+.italic {
+	font-style: italic;
 }
 
 h1 {
-    font-family: Georgia, "Times New Roman", serif;
+		font-family: 'Merriweather Sans', sans-serif;
 }
 
 body{
