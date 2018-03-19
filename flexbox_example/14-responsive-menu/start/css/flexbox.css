@@ -7,7 +7,7 @@
 	flex-direction: column;
 }
 
-@media (min-width: 599px) {
+@media (min-width: 600px) {
 
 	.container {
 		flex-direction: row;
@@ -16,14 +16,9 @@
 
 }
 
-@media (min-width: 799px) {
-
+@media (min-width: 800px) {
 	.item-1 {
 		margin-right: auto;
 	}
-
-
-
-
 
 }
