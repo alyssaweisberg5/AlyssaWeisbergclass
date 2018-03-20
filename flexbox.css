@@ -3,14 +3,3 @@
 
 
 Flexbox
-
-/* .container {
-	display: flex;
-	flex-direction: column-reverse;
-} */
-
-
-.title {
-	display: flex;
-	flex-direction: column-reverse;
-}

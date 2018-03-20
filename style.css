@@ -68,9 +68,3 @@ h1 {
 img {
   border: none;
 }
-
-
-.container {
-	display: flex;
-	flex-direction: row-reverse;
-}
