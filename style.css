@@ -12,8 +12,8 @@ h1 {
 }
 
 
-#container{
-    width: 95%;
+#container {
+    width: 100%;
     margin: 0 auto;
 }
 #nav {
@@ -67,4 +67,10 @@ h1 {
 
 img {
   border: none;
+}
+
+
+.container {
+	display: flex;
+	flex-direction: row-reverse;
 }
